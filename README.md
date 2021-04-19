@@ -1,6 +1,6 @@
 <h3 align="center">
-    <img src="public/images/podcastr.svg">
-    <img src="public/logo-full.svg" />
+    <img src="public/logo-full.svg">
+    <img src="public/images/podcastr.svg" />
 </h3>   
 
 <h3 align="center">
@@ -13,7 +13,7 @@ O layout oficial do Podcastr pode ser acessado na plataforma **Figma** através 
 
 - ⚛️ ReactJS - Framework para a criação de interfaces modernas, fluidas e com design responsivo em diversos dispositivos, utilizando JavaScript
 - 🇳 NextJS - Framework do React para melhora considerável na estrutura da página e para facilitar a indexação e o contato com o Back-end
-- ⌨️ JavaScript - Linguagem de programação na qual a aplicação é completamente baseada, desde suas Frameworks até toda a estruturação e regras de negócio
+- 💛 JavaScript - Linguagem de programação na qual a aplicação é completamente baseada, desde suas Frameworks até toda a estruturação e regras de negócio
 
 ## ❓ Como Executar
 
@@ -41,4 +41,4 @@ Meu caderno com as anotações referentes ao conteúdo da Next Level Week #4 pod
 
 ## 🚀 Next Level Week #5
 
-![nlw5](public/images/nlw5.png "nlw4")
+![nlw5](public/images/nlw5.png "nlw5")
