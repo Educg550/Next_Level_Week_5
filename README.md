@@ -20,12 +20,16 @@ O layout oficial do Podcastr pode ser acessado na plataforma **Figma** através 
 Primeiramente, é necessário ter o [Git](https://git-scm.com/downloads), o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados no seu sistema. Assim que esse pré-requisito for atendido, basta executar estes comandos, um a um, no seu Terminal ou Shell de preferência:
 
 ```
-git clone https://github.com/Educg550/Next_Level_Week_5.git
+# Clone the repository
+git clone https://github.com/Educg550/Podcastr.git
 
+# Enter in the project folder
 cd Next_Level_Week_5
 
+# Install dependencies
 yarn
 
+# Start the project
 yarn dev
 ```
 
