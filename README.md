@@ -1,6 +1,6 @@
 <h3 align="center">
-    <img src="public/logo-full.svg">
-    <img src="public/images/podcastr.svg" />
+    <img src="public/images/podcastr.svg">
+    <img src="public/logo-full.svg" />
 </h3>   
 
 <h3 align="center">
