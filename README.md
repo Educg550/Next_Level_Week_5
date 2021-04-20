@@ -1,6 +1,6 @@
 <h3 align="center">
     <img src="public/images/podcastr.svg">
-    <img src="public/logo-full.svg" />
+    <img src="public/logo.svg" />
 </h3>   
 
 <h3 align="center">
@@ -17,7 +17,7 @@ O layout oficial do Podcastr pode ser acessado na plataforma **Figma** através 
 
 ## ❓ Como Executar
 
-Primeiramente, é necessário ter o [Git](https://git-scm.com/downloads), o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados no seu sistema. Assim que esse pré-requisito for atendido, basta executar estes comandos, um a um, no seu Terminal ou Shell de preferência:
+Primeiramente, é necessário ter o [Git](https://git-scm.com/downloads), o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) instalados no seu sistema. Assim que esse pré-requisito for atendido, basta executar estes comandos, um a um, no seu Terminal ou Shell de preferência (caso não funcione, tente executar os comandos como usuário root):
 
 ```
 # Clone the repository
@@ -30,7 +30,7 @@ cd Next_Level_Week_5
 yarn
 
 # Start the project
-yarn dev
+yarn start
 ```
 
 Assim que o servidor for iniciado, ele será hospedado no seguinte endereço: `localhost:3000`
