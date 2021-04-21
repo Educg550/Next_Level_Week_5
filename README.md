@@ -32,6 +32,9 @@ yarn
 # Run local data server
 yarn server
 
+# Compile the latest build
+yarn build
+
 # Start the project
 yarn start
 ```
