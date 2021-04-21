@@ -1,9 +1,22 @@
-export default function Home(props) {
+import { GetStaticProps } from 'next';
+
+type Episode = {
+    id: string;
+    title: string;
+    members: string;
+    // Completar informações...
+}
+
+type HomeProps = {
+  episodes: Episode[];
+}
+
+export default function Home(props: HomeProps) {
   return <h1>Content</h1>;
 }
 
-// SSR - Dispara na inicialização da página
-export async function getStaticProps() {
+// SSG - Dispara na inicialização da página
+export const getStaticProps: GetStaticProps = async () => {
   const response = await fetch("http://localhost:3333/episodes");
   const data = await response.json();
 

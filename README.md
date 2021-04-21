@@ -29,6 +29,9 @@ cd Next_Level_Week_5
 # Install dependencies
 yarn
 
+# Run local data server
+yarn server
+
 # Start the project
 yarn start
 ```
