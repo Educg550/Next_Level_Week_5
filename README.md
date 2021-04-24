@@ -7,6 +7,12 @@
     Plataforma online de podcasts: O melhor para você ouvir, sempre
 </h3>
 
+## 🌟 Diferenciais e novidades
+
+- [ ] Theme changer (dark mode)
+- [ ] Criar pacote PWA
+- [ ] Criar pacote instalável utilizando Electron
+
 O layout oficial do Podcastr pode ser acessado na plataforma **Figma** através [deste link](https://www.figma.com/file/yBoRD3O9wl2uZvJDhTjL99/Podcastr)
 
 ## 🖥️ Tecnologias Utilizadas
