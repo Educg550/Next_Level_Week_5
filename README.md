@@ -10,17 +10,17 @@
 
 ## 🌟 Diferenciais e novidades
 
-- [ ] Theme changer (dark mode)
-- [ ] Criar pacote PWA
-- [ ] Criar pacote instalável utilizando Electron
+- [ ] Theme changer (dark mode);
+- [ ] Criar pacote PWA;
+- [ ] Criar pacote instalável utilizando Electron.
 
-O layout oficial do Podcastr pode ser acessado na plataforma **Figma** através [deste link](https://www.figma.com/file/yBoRD3O9wl2uZvJDhTjL99/Podcastr)
+O layout oficial do Podcastr pode ser acessado na plataforma **Figma** através [deste link](https://www.figma.com/file/yBoRD3O9wl2uZvJDhTjL99/Podcastr).
 
 ## 🖥️ Tecnologias Utilizadas
 
-- ⚛️ ReactJS - Framework para a criação de interfaces modernas, fluidas e com design responsivo em diversos dispositivos, utilizando JavaScript
-- 🇳 NextJS - Framework do React para melhora considerável na estrutura da página e para facilitar a indexação e o contato com o Back-end
-- 💛 JavaScript - Linguagem de programação na qual a aplicação é completamente baseada, desde suas Frameworks até toda a estruturação e regras de negócio
+- ⚛️ ReactJS - Framework para a criação de interfaces modernas, fluidas e com design responsivo em diversos dispositivos, utilizando JavaScript;
+- 🇳 NextJS - Framework do React para melhora considerável na estrutura da página e para facilitar a indexação e o contato com o Back-end;
+- 💛 JavaScript - Linguagem de programação na qual a aplicação é completamente baseada, desde suas Frameworks até toda a estruturação e regras de negócio.
 
 ## ❓ Como Executar
 
@@ -54,7 +54,7 @@ Basta inserir este mesmo endereço no seu navegador de preferência e testar a a
 
 ## 📓 Caderno de Anotações
 
-Meu caderno com as anotações referentes ao conteúdo da Next Level Week #4 pode ser encontrado [neste link](https://www.notion.so/Next-Level-Week-5-04fd4b41bd3d493587a7ce58ff271060), utilizando a plataforma **Notion**.
+Meu caderno com as anotações referentes ao conteúdo da Next Level Week #5 pode ser encontrado [neste link](https://www.notion.so/Next-Level-Week-5-04fd4b41bd3d493587a7ce58ff271060), utilizando a plataforma **Notion**.
 
 ## 🚀 Next Level Week #5
 
